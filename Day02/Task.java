@@ -17,7 +17,7 @@ class Task{
         math = 80.9;
         System.out.println("Mathematics : "+math);
 
-        // change valur of variables
+        // change value of variables
         int havaSicakligi;
         int sabahSicaklik = 22;
         havaSicakligi = sabahSicaklik;
