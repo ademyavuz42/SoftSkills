@@ -7,7 +7,7 @@ class IfElseStatements {
         if (statu){
             System.out.println("Durum dogru!");
         }else {
-            System.out.println("Durum dogru degil");
+            System.out.println("Durum dogru degil.");
         }
 
         // task: credential for sports activities
